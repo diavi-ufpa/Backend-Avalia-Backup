@@ -1,3 +1,6 @@
+# Atenção!
+O código está depreciado. Esse não é o código que fornece a API para o site. No entanto, esse código serve como base para explorar a forma como os dados foram e devem ser tratados.
+
 ---
 title: AVALIA Backend (Plumber R)
 emoji: 🧪
